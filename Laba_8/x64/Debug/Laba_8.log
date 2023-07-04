@@ -1,0 +1,11 @@
+﻿  Laba_8.cpp
+C:\Lab\Laba_8\Laba_8.cpp(19,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Lab\Laba_8\Laba_8.cpp(24,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Lab\Laba_8\Laba_8.cpp(21,17): warning C4101: z: неиспользованная локальная переменная
+C:\Lab\Laba_8\Laba_8.cpp(20,9): warning C4101: ansBisection: неиспользованная локальная переменная
+C:\Lab\Laba_8\Laba_8.cpp(21,14): warning C4101: i: неиспользованная локальная переменная
+  ApplicationService.cpp
+C:\Lab\Laba_8\ApplicationService.cpp(45,10): warning C4566: символ, представленный универсальным именем символа "\u2264", невозможно представить в текущей кодовой странице (1251)
+C:\Lab\Laba_8\ApplicationService.cpp(104,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  Laba_8.vcxproj -> C:\Lab\Laba_8\x64\Debug\Laba_8.exe

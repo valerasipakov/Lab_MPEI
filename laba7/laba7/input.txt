@@ -1,0 +1,16 @@
+everest
+8200
+123.001
+83.10012
+GoraDlaCorrectirovki
+3000
+-123.0
+311.12333
+SovsemNeNeGora
+-121212
+0.0
+0.0
+GoraKrit
+3001
+-121.00
+3.33

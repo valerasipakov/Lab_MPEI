@@ -1,0 +1,16 @@
+﻿  laba7.cpp
+C:\Lab\laba7\laba7\laba7.cpp(68,48): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\laba7\laba7\laba7.cpp(58,7): warning C4101: s: неиспользованная локальная переменная
+C:\Lab\laba7\laba7\laba7.cpp(99,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\laba7\laba7\laba7.cpp(96,7): warning C4101: SUp: неиспользованная локальная переменная
+C:\Lab\laba7\laba7\laba7.cpp(131,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\laba7\laba7\laba7.cpp(137,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Lab\laba7\laba7\laba7.cpp(138,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Lab\laba7\laba7\laba7.cpp(142,16): warning C4309: аргумент: усечение константного значения
+C:\Lab\laba7\laba7\laba7.cpp(143,49): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\laba7\laba7\laba7.cpp(148,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\laba7\laba7\laba7.cpp(173,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\laba7\laba7\laba7.cpp(183,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\laba7\laba7\laba7.cpp(200,10): warning C4129: C: неизвестная escape-последовательность
+C:\Lab\laba7\laba7\laba7.cpp(200,10): warning C4129: V: неизвестная escape-последовательность
+  laba7.vcxproj -> C:\Lab\laba7\laba7\x64\Debug\laba7.exe

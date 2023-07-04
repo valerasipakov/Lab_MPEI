@@ -1,0 +1,13 @@
+﻿  lab_7_var_6.cpp
+C:\Lab\lab_7_var_6\lab_7_var_6.cpp(55,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\lab_7_var_6\lab_7_var_6.cpp(93,39): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\lab_7_var_6\lab_7_var_6.cpp(86,7): warning C4101: SUp: неиспользованная локальная переменная
+C:\Lab\lab_7_var_6\lab_7_var_6.cpp(125,38): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\lab_7_var_6\lab_7_var_6.cpp(139,16): warning C4309: аргумент: усечение константного значения
+C:\Lab\lab_7_var_6\lab_7_var_6.cpp(140,41): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\lab_7_var_6\lab_7_var_6.cpp(145,39): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\lab_7_var_6\lab_7_var_6.cpp(173,38): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\lab_7_var_6\lab_7_var_6.cpp(179,39): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\lab_7_var_6\lab_7_var_6.cpp(195,10): warning C4129: C: неизвестная escape-последовательность
+C:\Lab\lab_7_var_6\lab_7_var_6.cpp(195,10): warning C4129: V: неизвестная escape-последовательность
+  lab_7_var_6.vcxproj -> C:\Lab\lab_7_var_6\x64\Debug\lab_7_var_6.exe

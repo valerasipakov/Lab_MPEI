@@ -1,0 +1,16 @@
+﻿  laba_9.cpp
+C:\Lab\laba_9\laba_9.h(1,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Lab\laba_9\laba_9.h(1,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "findMinRecursion"
+C:\Lab\laba_9\laba_9.h(2,32): error C2061: синтаксическая ошибка: идентификатор "FILE"
+C:\Lab\laba_9\laba_9.h(3,33): error C2061: синтаксическая ошибка: идентификатор "FILE"
+C:\Lab\laba_9\laba_9.cpp(35,24): error C2660: importData: функция не принимает 3 аргументов
+C:\Lab\laba_9\laba_9.h(3,6): message : см. объявление "importData"
+C:\Lab\laba_9\laba_9.cpp(37,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "answ"
+C:\Lab\laba_9\laba_9.cpp(37,12): error C2065: answ: необъявленный идентификатор
+C:\Lab\laba_9\laba_9.cpp(37,19): error C3861: findMinRecursion: идентификатор не найден
+C:\Lab\laba_9\laba_9.cpp(49,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Lab\laba_9\laba_9.cpp(49,1): error C2086: int answer: переопределение
+C:\Lab\laba_9\laba_9.h(1): message : см. объявление "answer"
+C:\Lab\laba_9\laba_9.cpp(49,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "findMinRecursion"
+C:\Lab\laba_9\laba_9.cpp(49,50): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Lab\laba_9\laba_9.cpp(49,50): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)

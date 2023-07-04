@@ -1,0 +1,54 @@
+﻿  testProject.cpp
+C:\Lab\laba_1\testProject\testProject.cpp(13,6): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(49,14): warning C4477: "fscanf": в строке форматирования "%30s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "double"
+C:\Lab\laba_1\testProject\testProject.cpp(53,14): warning C4477: "fscanf": в строке форматирования "%30s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "double"
+C:\Lab\laba_1\testProject\testProject.cpp(54,14): warning C4477: "fscanf": в строке форматирования "%30s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int"
+C:\Lab\laba_1\testProject\testProject.cpp(55,48): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\laba_1\testProject\testProject.cpp(62,1): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "size_t"
+C:\Lab\laba_1\testProject\testProject.cpp(62,1): message : рекомендуется использовать "%zd" в строке форматирования
+C:\Lab\laba_1\testProject\testProject.cpp(27,3): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(30,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(34,29): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(37,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(42,28): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(49,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(53,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(54,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(64,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(47,7): warning C4101: s: неиспользованная локальная переменная
+C:\Lab\laba_1\testProject\testProject.cpp(87,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\laba_1\testProject\testProject.cpp(90,12): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int"
+C:\Lab\laba_1\testProject\testProject.cpp(90,12): warning C4313: printf: конфликт "%s" в строке формата с аргументом 1 типа "int"
+C:\Lab\laba_1\testProject\testProject.cpp(90,12): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "double"
+C:\Lab\laba_1\testProject\testProject.cpp(90,12): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "3" имеет тип "double"
+C:\Lab\laba_1\testProject\testProject.cpp(71,3): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(74,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(79,3): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(100,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(84,7): warning C4101: SUp: неиспользованная локальная переменная
+C:\Lab\laba_1\testProject\testProject.cpp(120,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\laba_1\testProject\testProject.cpp(123,11): warning C4477: "printf": в строке форматирования "%25s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int"
+C:\Lab\laba_1\testProject\testProject.cpp(123,11): warning C4313: printf: конфликт "%s" в строке формата с аргументом 1 типа "int"
+C:\Lab\laba_1\testProject\testProject.cpp(123,11): warning C4477: "printf": в строке форматирования "%20s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "double"
+C:\Lab\laba_1\testProject\testProject.cpp(123,11): warning C4477: "printf": в строке форматирования "%25s" требуется аргумент типа "char *", но вариативный аргумент "3" имеет тип "double"
+C:\Lab\laba_1\testProject\testProject.cpp(123,11): warning C4473: "printf": передано недостаточно аргументов для строки формата
+C:\Lab\laba_1\testProject\testProject.cpp(123,11): message : заполнители и их параметры ожидают переменное число аргументов в количестве 6, но было предоставлено 3
+C:\Lab\laba_1\testProject\testProject.cpp(123,11): message : отсутствующий вариативный аргумент "4" требуется для строки форматирования "%2d"
+C:\Lab\laba_1\testProject\testProject.cpp(126,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Lab\laba_1\testProject\testProject.cpp(127,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Lab\laba_1\testProject\testProject.cpp(131,17): warning C4309: аргумент: усечение константного значения
+C:\Lab\laba_1\testProject\testProject.cpp(132,50): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\laba_1\testProject\testProject.cpp(135,12): warning C4477: "printf": в строке форматирования "%25s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int"
+C:\Lab\laba_1\testProject\testProject.cpp(135,12): warning C4313: printf: конфликт "%s" в строке формата с аргументом 1 типа "int"
+C:\Lab\laba_1\testProject\testProject.cpp(135,12): warning C4477: "printf": в строке форматирования "%20s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "double"
+C:\Lab\laba_1\testProject\testProject.cpp(135,12): warning C4477: "printf": в строке форматирования "%25s" требуется аргумент типа "char *", но вариативный аргумент "3" имеет тип "double"
+C:\Lab\laba_1\testProject\testProject.cpp(135,12): warning C4473: "printf": передано недостаточно аргументов для строки формата
+C:\Lab\laba_1\testProject\testProject.cpp(135,12): message : заполнители и их параметры ожидают переменное число аргументов в количестве 6, но было предоставлено 3
+C:\Lab\laba_1\testProject\testProject.cpp(135,12): message : отсутствующий вариативный аргумент "4" требуется для строки форматирования "%2d"
+C:\Lab\laba_1\testProject\testProject.cpp(137,48): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Lab\laba_1\testProject\testProject.cpp(108,4): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(111,14): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(115,4): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(145,3): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Lab\laba_1\testProject\testProject.cpp(157,1): warning C4129: V: неизвестная escape-последовательность
+C:\Lab\laba_1\testProject\testProject.cpp(168,14): error C3861: ViewFile: идентификатор не найден

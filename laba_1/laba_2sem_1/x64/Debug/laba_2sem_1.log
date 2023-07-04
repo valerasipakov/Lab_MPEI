@@ -1,0 +1,9 @@
+﻿  laba_2sem_1.cpp
+C:\Lab\laba_1\laba_2sem_1\laba_2sem_1.cpp(12,9): warning C4068: неизвестная прагма "argsused"
+C:\Lab\laba_1\laba_2sem_1\laba_2sem_1.cpp(14,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Lab\laba_1\laba_2sem_1\laba_2sem_1.cpp(18,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Lab\laba_1\laba_2sem_1\laba_2sem_1.cpp(54,37): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Lab\laba_1\laba_2sem_1\laba_2sem_1.cpp(21,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Lab\laba_1\laba_2sem_1\laba_2sem_1.cpp(30,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Lab\laba_1\laba_2sem_1\laba_2sem_1.cpp(42,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  laba_2sem_1.vcxproj -> C:\Lab\laba_1\laba_2sem_1\x64\Debug\laba_2sem_1.exe
